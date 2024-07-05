@@ -8,3 +8,11 @@ This script demonstrates web scraping with the twint library to gather Twitter f
 
 Web Scraping 3:
 
+This script demonstrates web scraping with BeautifulSoup to extract product information from Flipkart. After installing and importing the necessary libraries (bs4 and urllib3), it fetches the HTML content of a Flipkart search results page for Samsung mobiles. The HTML is parsed, and product containers are identified by their specific class. For each product, the script extracts the name, price, and ratings, and then writes this information to a CSV file named "products.csv". This project illustrates the use of Python for web scraping, data extraction, and saving the data in a structured format for further analysis or use.
+
+Web Scraping 4:
+
+
+
+
+
