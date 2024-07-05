@@ -12,6 +12,7 @@ This script demonstrates web scraping with BeautifulSoup to extract product info
 
 Web Scraping 4:
 
+This script utilizes the instaloader library for web scraping Instagram, showcasing its capabilities for extracting user profile information and downloading posts. After installing the instaloader library, it initializes an instance of Instaloader to interact with Instagram. The script loads and prints details from the profile of 'abhishek_rastogi10', such as username, user ID, post count, follower count, followee count, biography, and external URL. It includes commands for logging into Instagram, essential for accessing private profiles and detailed follower/followee information. The script demonstrates how to fetch lists of followers and followees for a given profile, printing these lists. Additionally, it iterates over posts from another profile, 'abhishekrastogi38069', downloading each post and saving it locally. This project serves as a practical example of using Python to scrape social media data, showcasing capabilities for both data extraction and content downloading from Instagram.
 
 
 
